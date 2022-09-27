@@ -1,2 +1,2 @@
-# Horizeon
+# Horiseon
 Homework 1
